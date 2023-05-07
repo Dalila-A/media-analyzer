@@ -1,3 +1,4 @@
+
 # Scanning User-generated Content Using the Cloud Video Intelligence, Cloud Vision and Cloud DLP APIs 
 
 Most applications require a certain amount of image, video or text processing. In this architecture let’s assume a blogging website where users generate content in the form of videos, images and text. 
