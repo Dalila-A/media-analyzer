@@ -52,4 +52,4 @@ The Cloud functions will be triggered by Pub/Sub events from previous topics.
 
 ## BigQuery Dataset
 The results of the Vision and Video Intelligence APIs will be stored in BigQuery. The default dataset and table names are set to **intelligentcontentfilter** and **filtered_content**.
-Ths schema is defined in the **table.tf** file.
+The schema is defined in the **table.tf** file.
